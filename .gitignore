@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Rapp.history
+package.Rcheck
+cpblib.Rcheck
+outside_package
+.DS_Store
+~*
+cpblib.Rproj
+.Rbuildignore
